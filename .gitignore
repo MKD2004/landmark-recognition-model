@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Custom ignored files
+landmark_subset.zip
+image_subset/
+A_Z Handwritten Data.csv
