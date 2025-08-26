@@ -4,14 +4,7 @@ A deep learning project to classify famous global landmarks from images using tr
 
 ## Overview
 
-This project implements a computer vision model capable of identifying over 20 different geographical landmarks from around the world. The model was built using a deep convolutional neural network (CNN) and leverages transfer learning from the `EfficientNetB0` architecture to achieve high accuracy on a large-scale image dataset from Kaggle.
-
-## 📸 Screenshots
-
-Here are some example predictions from the trained model on the validation set:
-
-
-*(**Tip:** Take a screenshot of the final prediction grid from your notebook and drag-and-drop it into the README file on GitHub to upload it.)*
+This project implements a computer vision model capable of identifying geographical landmarks from around the world. The model was built using a deep convolutional neural network (CNN) and leverages transfer learning from the `EfficientNetB0` architecture to achieve high accuracy on a large-scale image dataset from Kaggle.
 
 ## 🛠️ Tech Stack
 
